@@ -1,4 +1,4 @@
-# DesafioShift
+# Desafio Automação 
 Realizado teste E2E inicialmente de forma manual, para mapear as funcionalidades do site afim de construir um cenário para automação. 
 
 Cenário: Realizar uma compra no site MyStore <br>
