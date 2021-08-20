@@ -38,8 +38,8 @@ namespace DesafioShift.PageObject
 
         public void PreencheDadosLogin()
         {
-            string email = ("desafio.shift@gmail.com");
-            string senha = ("automacao01");
+            string email = ("lo.dory@gmail.com");
+            string senha = ("12345");
             driver.FindElement(ByLogin).SendKeys(email);
             driver.FindElement(ByPassword).SendKeys(senha);
         }

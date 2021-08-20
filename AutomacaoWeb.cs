@@ -6,10 +6,10 @@ using Xunit;
 
 namespace AutomacaoWeb
 {
-    public class TestShift
+    public class ComprasMyStore
     {
         [Fact]
-        public void ComprasMyStore()
+        public void RealizarCompraTodosPassos()
         {
             IWebDriver driver = new ChromeDriver();
 
